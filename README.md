@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <p> 🐲 ap3ili &#124; 💻 Cyber Security Student </p>
+  <p> 🐲 Ap3ili &#124; 💻 Cyber Security Student </p>
 </div>
 
 # Whoami
