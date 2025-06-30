@@ -8,4 +8,4 @@
 
 # Whoami
 - Cyber Security Student
-- Active flag collector @ HTB
+- flag collector @ hackthebox
