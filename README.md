@@ -8,6 +8,6 @@
 
 # Whoami
 - 🎓 Graduate Cyber Security Student 
-- 🏴‍☠️ flag collector @ hackthebox
+- 🏴‍☠️ Flag collector @ hackthebox
 - 🚀 Top 1% on TryHackMe (2022-2025)
 - 🎆 I create Write-ups & Guides for CTFs and Active Directory @ ap3ili.github.io
