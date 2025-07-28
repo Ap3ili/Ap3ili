@@ -7,7 +7,7 @@
 </div>
 
 # Whoami
-- 🎓 Graduate Cyber Security Student 
+- 🎓 Graduate Cyber Security Student with 1st class honours
 - 🏴‍☠️ Flag collector @ hackthebox
 - 🚀 Top 1% on TryHackMe (2022-2025)
-- 🎆 I create Write-ups & Guides for CTFs and Active Directory @ ap3ili.github.io
+- 🎆 I create write-ups & Guides for CTFs and Active Directory @ ap3ili.github.io
